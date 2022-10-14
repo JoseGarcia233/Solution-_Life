@@ -1,17 +1,21 @@
 import React from 'react'
 import '../css/Footer.css'
+
 export default function Footer() {
   return (
     <div>
-       <footer class="site-footer">
+      <footer class="site-footer">
       <div class="container">
         <div class="row">
-          <div class="col-sm-12 col-md-6">
+          <div class="col-sm-12 col-md-9">
             <h6>About</h6>
             <p class="text-justify">SOLUTION LIFE is a website help to many people to find a good jobs</p>
           </div>
-
-          <div class="col-xs-6 col-md-3">
+          <div class="content">
+                    <img  id="img"src="https://i.postimg.cc/9fKLvxk8/Logo-Solution-life.png" alt='pic'/>
+                    <h3>Jobs</h3>
+                </div>
+          <div class="col-xs-6 col-md-4">
             <h6>Categories</h6>
             <ul class="footer-links">
               <li><a href="http://scanfcode.com/category/c-language/">C</a></li>
@@ -40,7 +44,7 @@ export default function Footer() {
         <div className="row">
           <div className="col-md-8 col-sm-6 col-xs-12">
             <p className="copyright-text">Copyright &copy; 2022 All Rights Reserved by 
-         <a href="#/">Scanfcode</a>.
+          <a href="#/">Scanfcode</a>.
             </p>
           </div>
 
