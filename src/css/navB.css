@@ -1,5 +1,5 @@
-nav.navbar {
-    background-color: #FFEEAF;
+nav {
+    border-bottom: 5px solid rgba(0, 0, 0, 0.032);
 }
 
 nav.navbar ul.nav li {
