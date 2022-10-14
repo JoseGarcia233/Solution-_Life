@@ -98,3 +98,8 @@
     background: #333;
     color: #fff;
 }
+
+#pic2{
+    position: relative;
+    left: 10px;
+}

@@ -22,8 +22,8 @@ export default function  Cards() {
         <div class="card">
             <div class="face face1">
                 <div class="content">
-                    <img src="https://github.com/Jhonierpc/WebDevelopment/blob/master/CSS%20Card%20Hover%20Effects/img/code_128.png?raw=true" alt=''/>
-                    <h3>Employess <br/>List</h3>
+                    <img  id="pic2"src="https://i.postimg.cc/8k4ZzTXW/lisN.png" alt='pic2'/>
+                    <h3>Employess<br/>List</h3>
                 </div>
             </div>
             <div class="face face2">
@@ -36,7 +36,7 @@ export default function  Cards() {
         <div class="card">
             <div class="face face1">
                 <div class="content">
-                    <img src="https://github.com/Jhonierpc/WebDevelopment/blob/master/CSS%20Card%20Hover%20Effects/img/launch_128.png?raw=true" alt=''/>
+                    <img src="https://i.postimg.cc/JnGhgNnK/express.png" alt=''/>
                     <h3>Expres</h3>
                 </div>
             </div>

@@ -5,3 +5,11 @@ nav {
 nav.navbar ul.nav li {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
+
+
+.imgLogo{
+    width: 150px;
+    height: 150px;
+    border: 20px;
+    border-radius: 50%;
+}
