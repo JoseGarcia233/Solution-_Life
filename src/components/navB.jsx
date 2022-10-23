@@ -35,6 +35,9 @@ export default function NavB() {
             <Link className="nav-item nav-link" to="/Login">
               Login
             </Link>
+            <Link className="nav-item nav-link active" to="/">
+              Ayuda
+            </Link>
           </div>
         </div>
       </nav>
