@@ -1,0 +1,19 @@
+.ctnCard {
+    background-color: black;
+}
+.card {
+    width: 300px;
+    margin-bottom: 2%;
+}
+.card img{
+    width: 50%;
+    margin-bottom: 2%;
+}
+.card ul {
+    list-style: none;
+}
+.card li {
+    display:inline;
+     padding-left:3px;
+     padding-right:3px;
+}

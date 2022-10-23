@@ -1,0 +1,13 @@
+.form-Add-Job {
+    margin: auto;
+    margin-top: 3%;
+    margin-bottom: 3%;
+    width: 450px;
+    background-color: rgba(255, 255, 255, 0.288);
+    padding: 3%;
+    text-align: center;
+    box-shadow: 0 15px 10px 5px;
+}
+.form-Add-Job button{
+    margin-top: 3%;
+}

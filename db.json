@@ -1,0 +1,209 @@
+{
+  "Jobs": [
+    {
+      "id": 1,
+      "position": "JR Developer",
+      "technologies": [
+        "React",
+        "JavaScript",
+        "C#",
+        "SQL Server"
+      ],
+      "modality": [
+        "face-to-face",
+        "virtual"
+      ],
+      "salary": "$10000",
+      "location": "USA",
+      "description": "ok",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Jobs_movie_logo.jpg",
+      "company": "ASD",
+      "working hours": "Full time"
+    },
+    {
+      "id": 2,
+      "position": "Freelance Developer",
+      "technologies": [
+        "Angular",
+        "JavaScript",
+        "C#",
+        "MongoDB",
+        "Java"
+      ],
+      "modality": [
+        "face-to-face"
+      ],
+      "salary": "$10000",
+      "location": "RD",
+      "description": "ok",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Jobs_movie_logo.jpg",
+      "company": "GYG",
+      "working hours": "Full time"
+    },
+    {
+      "id": 3,
+      "position": "Sr Developer",
+      "technologies": [
+        "React",
+        "Vue",
+        "JavaScript",
+        "C#",
+        "SQL Server"
+      ],
+      "modality": [
+        "virtual"
+      ],
+      "salary": "$10000",
+      "location": "RD",
+      "description": "ok",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Jobs_movie_logo.jpg",
+      "company": "FRF",
+      "working hours": "Part time "
+    },
+    {
+      "id": 4,
+      "position": "Data developer ",
+      "technologies": [
+        "Python",
+        "R",
+        "C#",
+        "SQL Server",
+        "Orange"
+      ],
+      "modality": [
+        "face-to-face",
+        "virtual"
+      ],
+      "salary": "$10000",
+      "location": "Spain",
+      "description": "ok",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Jobs_movie_logo.jpg",
+      "company": "ERE",
+      "working hours": "Part time "
+    },
+    {
+      "id": 5,
+      "position": "Web Developer",
+      "technologies": [
+        "Vue",
+        "JavaScript",
+        "C#",
+        "SQL Server",
+        "Java",
+        "Oracle"
+      ],
+      "modality": [
+        "virtual"
+      ],
+      "salary": "$10000",
+      "location": "RD",
+      "description": "ok",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Jobs_movie_logo.jpg",
+      "company": "DWX",
+      "working hours": "Full time"
+    },
+    {
+      "id": 6,
+      "position": "Back Developer",
+      "technologies": [
+        "C++",
+        "JavaScript",
+        "Node#",
+        "SQL Server",
+        "MySQL",
+        "GO"
+      ],
+      "modality": [
+        "face-to-face",
+        "virtual"
+      ],
+      "salary": "$10000",
+      "location": "USA",
+      "description": "ok",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Jobs_movie_logo.jpg",
+      "company": "HED",
+      "working hours": "Full time"
+    },
+    {
+      "id": 7,
+      "position": "Fullstack developer",
+      "technologies": [
+        "Node",
+        "JavaScript",
+        "Vue",
+        "SQL Server"
+      ],
+      "modality": [
+        "face-to-face",
+        "virtual"
+      ],
+      "salary": "$10000",
+      "location": "CL",
+      "description": "ok",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Jobs_movie_logo.jpg",
+      "company": "DSD",
+      "working hours": "Part time "
+    },
+    {
+      "id": 8,
+      "position": "Web Developer",
+      "technologies": [
+        "Node",
+        "JavaScript",
+        "React",
+        "SQL Server",
+        "MySQL"
+      ],
+      "modality": [
+        "face-to-face"
+      ],
+      "salary": "$10000",
+      "location": "Canada",
+      "description": "ok",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Jobs_movie_logo.jpg",
+      "company": "AAQW",
+      "working hours": "Full time"
+    },
+    {
+      "id": 9,
+      "position": "Frontend Developer",
+      "technologies": [
+        "Node",
+        "JavaScript",
+        "React",
+        "SQL Server",
+        "MySQL"
+      ],
+      "modality": [
+        "face-to-face",
+        "virtual"
+      ],
+      "salary": "$10000",
+      "location": "RD",
+      "description": "ok",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Jobs_movie_logo.jpg",
+      "company": "SWQ",
+      "working hours": "Part time "
+    },
+    {
+      "id": 10,
+      "position": "Web Developer",
+      "technologies": [
+        "Node",
+        "JavaScript",
+        "React",
+        "SQL Server",
+        "Vue"
+      ],
+      "modality": [
+        "face-to-face"
+      ],
+      "salary": "$10000",
+      "location": "USA",
+      "description": "ok",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Jobs_movie_logo.jpg",
+      "company": "BYW",
+      "working hours": "Full time"
+    }
+  ]
+}

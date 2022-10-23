@@ -1,5 +1,14 @@
 nav {
     border-bottom: 5px solid rgba(0, 0, 0, 0.032);
+    background-color: rgb(34, 33, 33);
+}
+.navbar-nav .nav-item{
+    color: white;
+
+}
+.navbar-nav .nav-item{
+    color: white;
+
 }
 
 nav.navbar ul.nav li {
