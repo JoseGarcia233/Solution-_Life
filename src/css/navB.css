@@ -4,21 +4,17 @@ nav {
 }
 .navbar-nav .nav-item{
     color: white;
-
 }
-.navbar-nav .nav-item{
+.nav-item-ayuda {
+    color: red;
+}
+.navbar-brand {
+    color: #76BA99;
+}
+.navbar-brand:hover {
     color: white;
-
 }
 
 nav.navbar ul.nav li {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-}
-
-
-.imgLogo{
-    width: 150px;
-    height: 150px;
-    border: 20px;
-    border-radius: 50%;
 }

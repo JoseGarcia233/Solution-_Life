@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import CardListJobs from "../components/Card_ListJobs";
+import SearchJobs from "../components/SearchJobs";
 import apiJson from "../hooks/apiJson";
 
 import "../css/ListJobs.css";
@@ -23,6 +24,9 @@ const ListJobs = () => {
 
   return (
     <div className="containerList">
+      <div className="searchInput">
+       <SearchJobs />
+      </div>
       {jobs.map((jobs) => {
         return (
           <div className="cardCTN" key={jobs.id}>

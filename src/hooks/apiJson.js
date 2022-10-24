@@ -20,6 +20,6 @@ export default {
     return apiClient.get("/?id="+jobId);
   },
   postJob(data) {
-    return apiClient.post(data);
+    return apiClient.post('',data);
   }
 };

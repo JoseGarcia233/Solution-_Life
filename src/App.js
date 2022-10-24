@@ -13,14 +13,14 @@ function App() {
   return (
     <Router>
       <NavB />
-        <Routes>
-          <Route path="/" element={<Cards />} />
-          <Route path="/List-jobs" element={<ListJobs />} />
-          <Route path="/about-jobs/:id" element={<AboutJobs />} />
-          <Route path="/add-jobs/" element={<AddJobs />} />
-          <Route path="/Login" element={<Login />} />
-        </Routes>
-        <Footer />
+      <Routes>
+        <Route path="/" element={<Cards />} />
+        <Route path="/List-jobs" element={<ListJobs />} />
+        <Route path="/about-jobs/:id" element={<AboutJobs />} />
+        <Route path="/add-jobs/" element={<AddJobs />} />
+        <Route path="/Login" element={<Login />} />
+      </Routes>
+      <Footer />
     </Router>
   );
 }

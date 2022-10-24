@@ -18,7 +18,7 @@
       "description": "ok",
       "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Jobs_movie_logo.jpg",
       "company": "ASD",
-      "working hours": "Full time"
+      "working_hours": "Full time"
     },
     {
       "id": 2,
@@ -38,7 +38,7 @@
       "description": "ok",
       "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Jobs_movie_logo.jpg",
       "company": "GYG",
-      "working hours": "Full time"
+      "working_hours": "Full time"
     },
     {
       "id": 3,
@@ -58,11 +58,11 @@
       "description": "ok",
       "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Jobs_movie_logo.jpg",
       "company": "FRF",
-      "working hours": "Part time "
+      "working_hours": "Part time "
     },
     {
       "id": 4,
-      "position": "Data developer ",
+      "position": "Data engineer ",
       "technologies": [
         "Python",
         "R",
@@ -79,7 +79,7 @@
       "description": "ok",
       "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Jobs_movie_logo.jpg",
       "company": "ERE",
-      "working hours": "Part time "
+      "working_hours": "Part time "
     },
     {
       "id": 5,
@@ -100,7 +100,7 @@
       "description": "ok",
       "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Jobs_movie_logo.jpg",
       "company": "DWX",
-      "working hours": "Full time"
+      "working_hours": "Full time"
     },
     {
       "id": 6,
@@ -122,7 +122,7 @@
       "description": "ok",
       "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Jobs_movie_logo.jpg",
       "company": "HED",
-      "working hours": "Full time"
+      "working_hours": "Full time"
     },
     {
       "id": 7,
@@ -142,7 +142,7 @@
       "description": "ok",
       "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Jobs_movie_logo.jpg",
       "company": "DSD",
-      "working hours": "Part time "
+      "working_hours": "Part time "
     },
     {
       "id": 8,
@@ -162,7 +162,7 @@
       "description": "ok",
       "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Jobs_movie_logo.jpg",
       "company": "AAQW",
-      "working hours": "Full time"
+      "working_hours": "Full time"
     },
     {
       "id": 9,
@@ -183,7 +183,7 @@
       "description": "ok",
       "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Jobs_movie_logo.jpg",
       "company": "SWQ",
-      "working hours": "Part time "
+      "working_hours": "Part time "
     },
     {
       "id": 10,
@@ -203,7 +203,7 @@
       "description": "ok",
       "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Jobs_movie_logo.jpg",
       "company": "BYW",
-      "working hours": "Full time"
+      "working_hours": "Full time"
     }
   ]
 }

@@ -15,7 +15,7 @@ export default function  Cards() {
             <div class="face face2">
                 <div class="content">
                     <p>Here you can find Jobs avalible</p>
-                        <a href="#/" class="btn btn-secondary" >Read More</a>
+                        <a href="/List-jobs" class="btn btn-secondary" >Read More</a>
                 </div>
             </div>
         </div>
