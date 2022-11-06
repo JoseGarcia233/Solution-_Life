@@ -8,6 +8,7 @@ import Cards from "./components/Cards";
 import ListJobs from "./pages/ListJobs";
 import AboutJobs from "./pages/AboutJobs";
 import AddJobs from "./pages/AddJobs";
+import UserProfile from "./pages/UserProfile";
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
         <Route path="/about-jobs/:id" element={<AboutJobs />} />
         <Route path="/add-jobs/" element={<AddJobs />} />
         <Route path="/Login" element={<Login />} />
+        <Route path="/UserPro" element={<UserProfile/>}/>
       </Routes>
       <Footer />
     </Router>
