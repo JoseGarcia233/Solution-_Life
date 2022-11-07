@@ -3,6 +3,14 @@
     text-align: center;
     padding: 5%;
 }
+.containerList .txtNoResult{
+    margin-top: 150px;
+    font-size: 32px;
+    margin-bottom: 10.6%;
+}
+.containerList .input-search{
+    width: 250px;
+}
 
 .cardCTN {
     display: inline-flex;

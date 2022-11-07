@@ -5,7 +5,7 @@ export default function  Cards() {
   return (
     <div className='containerCard'>
          <div class="container">
-        <div class="card">
+        <div class="cardHome">
             <div class="face face1">
                 <div class="content">
                     <img src="https://i.postimg.cc/mZdZxCjx/the-last.png" alt='pic'/>
@@ -19,7 +19,7 @@ export default function  Cards() {
                 </div>
             </div>
         </div>
-        <div class="card">
+        <div class="cardHome">
             <div class="face face1">
                 <div class="content">
                     <img  id="pic2"src="https://i.postimg.cc/8k4ZzTXW/lisN.png" alt='pic2'/>
@@ -33,7 +33,7 @@ export default function  Cards() {
                 </div>
             </div>
         </div>
-        <div class="card">
+        <div class="cardHome">
             <div class="face face1">
                 <div class="content">
                     <img src="https://i.postimg.cc/JnGhgNnK/express.png" alt=''/>

@@ -4,9 +4,25 @@
 .card {
     width: 300px;
     margin-bottom: 2%;
+    background-color: #ffffff7d;
+}
+.card .cardBody{
+    padding-right: 5%;
+}
+.img-logo {
+    position: relative;
+    left: 25%;
+    width: 50%;
+    height: 150px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position:center;
+    filter: brightness(1.10);
+    mix-blend-mode: multiply;
 }
 .card img{
     width: 50%;
+    height: 150px;
     margin-bottom: 2%;
 }
 .card ul {
@@ -16,4 +32,9 @@
     display:inline;
      padding-left:3px;
      padding-right:3px;
+}
+.card .btn-dark:hover{
+    background-color: red;
+    border-color: red;
+    font-size: 22px;
 }

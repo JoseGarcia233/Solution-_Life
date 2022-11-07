@@ -4,7 +4,7 @@
       "id": 1,
       "position": "JR Developer",
       "technologies": [
-        "React",
+        "Vue",
         "JavaScript",
         "C#",
         "SQL Server"
@@ -13,11 +13,11 @@
         "face-to-face",
         "virtual"
       ],
-      "salary": "$10000",
-      "location": "USA",
+      "salary": "RD$ 30000",
+      "location": "RD",
       "description": "ok",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Jobs_movie_logo.jpg",
-      "company": "ASD",
+      "image": "https://th.bing.com/th/id/R.49eb49f9d5839019b40b922222e913e1?rik=CRsQYJyJFHOQQQ&riu=http%3a%2f%2fservicios.magycorp.com%2fncfmovil%2fimages%2fTennos-logo-w.png&ehk=YAgqtFtDG5evq%2f8B9PFJgHLVp8eJvVrMPvc%2by1IiIgw%3d&risl=&pid=ImgRaw&r=0",
+      "company": "Tennos Business",
       "working_hours": "Full time"
     },
     {
@@ -33,11 +33,11 @@
       "modality": [
         "face-to-face"
       ],
-      "salary": "$10000",
+      "salary": "RD$ 10000",
       "location": "RD",
       "description": "ok",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Jobs_movie_logo.jpg",
-      "company": "GYG",
+      "image": "https://th.bing.com/th/id/R.042425f31493b2fd8471b786cf21c640?rik=bL3JuuXmzsaDyg&pid=ImgRaw&r=0",
+      "company": "ITLA",
       "working_hours": "Full time"
     },
     {
@@ -53,11 +53,11 @@
       "modality": [
         "virtual"
       ],
-      "salary": "$10000",
+      "salary": "RD$ 10000",
       "location": "RD",
       "description": "ok",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Jobs_movie_logo.jpg",
-      "company": "FRF",
+      "image": "https://www.solvex.com.do/media/rgzollzh/logo.png",
+      "company": "SOLVEX",
       "working_hours": "Part time "
     },
     {
@@ -74,7 +74,7 @@
         "face-to-face",
         "virtual"
       ],
-      "salary": "$10000",
+      "salary": "RD$ 10000",
       "location": "Spain",
       "description": "ok",
       "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Jobs_movie_logo.jpg",
@@ -95,7 +95,7 @@
       "modality": [
         "virtual"
       ],
-      "salary": "$10000",
+      "salary": "RD$ 10000",
       "location": "RD",
       "description": "ok",
       "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Jobs_movie_logo.jpg",
@@ -117,7 +117,7 @@
         "face-to-face",
         "virtual"
       ],
-      "salary": "$10000",
+      "salary": "RD$ 10000",
       "location": "USA",
       "description": "ok",
       "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Jobs_movie_logo.jpg",
@@ -137,7 +137,7 @@
         "face-to-face",
         "virtual"
       ],
-      "salary": "$10000",
+      "salary": "RD$ 10000",
       "location": "CL",
       "description": "ok",
       "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Jobs_movie_logo.jpg",
@@ -157,7 +157,7 @@
       "modality": [
         "face-to-face"
       ],
-      "salary": "$10000",
+      "salary": "RD$ 10000",
       "location": "Canada",
       "description": "ok",
       "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Jobs_movie_logo.jpg",
@@ -178,7 +178,7 @@
         "face-to-face",
         "virtual"
       ],
-      "salary": "$10000",
+      "salary": "RD$ 10000",
       "location": "RD",
       "description": "ok",
       "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Jobs_movie_logo.jpg",
@@ -198,12 +198,35 @@
       "modality": [
         "face-to-face"
       ],
-      "salary": "$10000",
+      "salary": "RD$ 10000",
       "location": "USA",
       "description": "ok",
       "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Jobs_movie_logo.jpg",
       "company": "BYW",
       "working_hours": "Full time"
+    }
+  ],
+  "login": [
+    {
+      "id": 0,
+      "UserName": "Melvin27",
+      "Email": "melvin@gmail.com",
+      "Password": "2727",
+      "Rol": "pro"
+    },
+    {
+      "UserName": "Jose02",
+      "Email": "jose@gmail.com",
+      "Password": "1020",
+      "id": 1,
+      "Rol": "pro"
+    },
+    {
+      "UserName": "David01",
+      "Email": "david@gmail.com",
+      "Password": "1020",
+      "id": 1,
+      "Rol": "pro"
     }
   ]
 }

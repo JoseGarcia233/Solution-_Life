@@ -1,12 +1,14 @@
-import { useParams } from "react-router-dom";
+import { useParams, Link } from "react-router-dom";
 import { useEffect, useState } from "react";
 
 import apiJson from "../hooks/apiJson";
-
+import Swal from "sweetalert2"
+   
 import "../css/AboutJobs.css";
 
 const AboutJobs = () => {
   const [jobs, setJobs] = useState([]);
+  let loginVerify = window.localStorage.getItem("loginDataSolutionLife")
 
   let { id } = useParams();
   useEffect(() => {
@@ -28,10 +30,14 @@ const AboutJobs = () => {
   const BackToPage = () => {
     window.history.back();
   }
-
-  const ApplyJob = () => {
-    alert("Aplicaste a este trabajo")
-  }
+  const successAlert = () =>{
+    Swal.fire({
+      icon: 'success',
+      title: "Aplicaste a este trabajo",
+      showConfirmButton: false,
+      timer: 1500
+    })
+} 
 
   return (
     <div className="ctnDetail">
@@ -73,11 +79,25 @@ const AboutJobs = () => {
               <p>
                 <b>Working hours:</b> {jobs.working_hours}
               </p>
+              {
+                !loginVerify &&  
+                <div className="warning">
+                  <p>
+                    <b>WARNING: </b>
+                    In order to apply for a vacancy you must register or log in with your account already created
+                  </p>
+                  <Link className="btn btn-outline-danger" to="/login">
+                    Login
+                  </Link>
+                </div>
+              }
             </div>
-
-            <div className="btnsDetail">
-              <button onClick={ApplyJob} className="btn btn-dark">Apply</button>
-            </div>
+              {
+                loginVerify &&  
+                <div className="btnsDetail">
+                  <button onClick={successAlert} className="btn btn-dark">Apply</button>
+                </div>
+              }
           </div>
         );
       })}

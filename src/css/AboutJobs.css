@@ -1,9 +1,17 @@
 
 .CardDetail {
     width: 100%;
-    background-color: aqua;
+    height: 100%;
+    background-color: #76BA99;
     display: inline-flex;
     padding: 5%;
+    margin-top: 2%;
+    margin-bottom: 15%;
+}
+.CardDetail img {
+    height: 410px;
+    filter: brightness(1.10);
+    mix-blend-mode: multiply;
 }
 .CardDetail .btn-danger {
     position: relative;
@@ -29,4 +37,16 @@
     position: absolute;
     bottom: 10%;
     right: 5%;
+}
+
+.warning {
+    margin-top: 10%;
+    font-size: 35px;
+}
+.warning b{
+    color: rgb(173, 16, 16);
+}
+.warning .btn-outline-danger:hover{
+    background-color: black;
+    border-color: black;
 }

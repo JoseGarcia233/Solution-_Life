@@ -4,17 +4,34 @@ nav {
 }
 .navbar-nav .nav-item{
     color: white;
+    font-weight: bold;
 }
 .nav-item-ayuda {
     color: red;
+    font-weight: bold;
+    position: relative;
+    right: 1%;
 }
 .navbar-brand {
     color: #76BA99;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    font-weight: bold;
+    font-variant: small-caps;
+    margin-left: 1%;
 }
 .navbar-brand:hover {
     color: white;
 }
+.navbar-brand:focus {
+    color: red;
+}
 
 nav.navbar ul.nav li {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.btn-logout {
+    background-color: red;
+    margin-right: 1%;
+    float: right;
 }

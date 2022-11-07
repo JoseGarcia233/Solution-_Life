@@ -4,7 +4,7 @@ import '../css/UserProfile.css'
 export default function UserProfile() {
   return (
     <div class="ps">
-    <div class="card">
+    <div class="cardProfile">
       <div class="circle-photo">
         <img src="https://cdn-icons-png.flaticon.com/512/149/149071.png" alt="Profile Pictur" class="t" width="180" height="180px"/>
       </div>
