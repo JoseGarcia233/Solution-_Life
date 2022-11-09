@@ -16,7 +16,7 @@ import { Link } from "react-router-dom";
           {
             technologies.map((technologies) => {
               return (
-                <li>{technologies},</li>
+                <li> {technologies} / </li>
               );
             })
           }
@@ -26,7 +26,7 @@ import { Link } from "react-router-dom";
           {
             modality.map((modality) => {
               return (
-                <li>{modality},</li>
+                <li> {modality} / </li>
               );
             })
           }
