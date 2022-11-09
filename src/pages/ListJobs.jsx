@@ -39,7 +39,7 @@ const ListJobs = () => {
     <div className="containerList">
       <div className="searchInput">
         <input className="form-control input-search" 
-        onChange={(event) => setSearch(event.target.value)} type="text" placeholder="Search"/>
+        onChange={(event) => setSearch(event.target.value)} type="text" placeholder=" 🔍 Search"/>
       </div>
       {
         jobs.length === 0 && 
