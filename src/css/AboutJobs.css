@@ -9,6 +9,7 @@
     margin-bottom: 15%;
 }
 .CardDetail img {
+    width: 400PX;
     height: 410px;
     filter: brightness(1.10);
     mix-blend-mode: multiply;

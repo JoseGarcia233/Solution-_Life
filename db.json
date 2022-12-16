@@ -61,149 +61,20 @@
       "working_hours": "Part time "
     },
     {
-      "id": 4,
-      "position": "Data engineer ",
+      "position": "Web developer",
       "technologies": [
-        "Python",
-        "R",
-        "C#",
-        "SQL Server",
-        "Orange"
+        "React, JavaScript"
       ],
       "modality": [
-        "face-to-face",
-        "virtual"
+        "Virtual"
       ],
-      "salary": "RD$ 10000",
-      "location": "Spain",
-      "description": "ok",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Jobs_movie_logo.jpg",
-      "company": "ERE",
-      "working_hours": "Part time "
-    },
-    {
-      "id": 5,
-      "position": "Web Developer",
-      "technologies": [
-        "Vue",
-        "JavaScript",
-        "C#",
-        "SQL Server",
-        "Java",
-        "Oracle"
-      ],
-      "modality": [
-        "virtual"
-      ],
-      "salary": "RD$ 10000",
+      "salary": "$15000",
       "location": "RD",
-      "description": "ok",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Jobs_movie_logo.jpg",
-      "company": "DWX",
-      "working_hours": "Full time"
-    },
-    {
-      "id": 6,
-      "position": "Back Developer",
-      "technologies": [
-        "C++",
-        "JavaScript",
-        "Node#",
-        "SQL Server",
-        "MySQL",
-        "GO"
-      ],
-      "modality": [
-        "face-to-face",
-        "virtual"
-      ],
-      "salary": "RD$ 10000",
-      "location": "USA",
-      "description": "ok",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Jobs_movie_logo.jpg",
-      "company": "HED",
-      "working_hours": "Full time"
-    },
-    {
-      "id": 7,
-      "position": "Fullstack developer",
-      "technologies": [
-        "Node",
-        "JavaScript",
-        "Vue",
-        "SQL Server"
-      ],
-      "modality": [
-        "face-to-face",
-        "virtual"
-      ],
-      "salary": "RD$ 10000",
-      "location": "CL",
-      "description": "ok",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Jobs_movie_logo.jpg",
-      "company": "DSD",
-      "working_hours": "Part time "
-    },
-    {
-      "id": 8,
-      "position": "Web Developer",
-      "technologies": [
-        "Node",
-        "JavaScript",
-        "React",
-        "SQL Server",
-        "MySQL"
-      ],
-      "modality": [
-        "face-to-face"
-      ],
-      "salary": "RD$ 10000",
-      "location": "Canada",
-      "description": "ok",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Jobs_movie_logo.jpg",
-      "company": "AAQW",
-      "working_hours": "Full time"
-    },
-    {
-      "id": 9,
-      "position": "Frontend Developer",
-      "technologies": [
-        "Node",
-        "JavaScript",
-        "React",
-        "SQL Server",
-        "MySQL"
-      ],
-      "modality": [
-        "face-to-face",
-        "virtual"
-      ],
-      "salary": "RD$ 10000",
-      "location": "RD",
-      "description": "ok",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Jobs_movie_logo.jpg",
-      "company": "SWQ",
-      "working_hours": "Part time "
-    },
-    {
-      "id": 10,
-      "position": "Web Developer",
-      "technologies": [
-        "Node",
-        "JavaScript",
-        "React",
-        "SQL Server",
-        "Vue"
-      ],
-      "modality": [
-        "face-to-face"
-      ],
-      "salary": "RD$ 10000",
-      "location": "USA",
-      "description": "ok",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Jobs_movie_logo.jpg",
-      "company": "BYW",
-      "working_hours": "Full time"
+      "description": "Desarollador con experiencia de 1 año",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/2048px-Claro.svg.png",
+      "company": "CLARO",
+      "working_hours": "Full time",
+      "id": 11
     }
   ],
   "login": [
