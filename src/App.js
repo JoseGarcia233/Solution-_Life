@@ -9,6 +9,7 @@ import ListJobs from "./pages/ListJobs";
 import AboutJobs from "./pages/AboutJobs";
 import AddJobs from "./pages/AddJobs";
 import UserProfile from "./pages/UserProfile";
+import Help from "./pages/Help";
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
         <Route path="/add-jobs/" element={<AddJobs />} />
         <Route path="/Login" element={<Login />} />
         <Route path="/UserPro" element={<UserProfile/>}/>
+        <Route path="/Help" element={<Help/>}/>
       </Routes>
       <Footer />
     </Router>

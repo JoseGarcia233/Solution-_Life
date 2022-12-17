@@ -39,42 +39,6 @@
       "image": "https://th.bing.com/th/id/R.042425f31493b2fd8471b786cf21c640?rik=bL3JuuXmzsaDyg&pid=ImgRaw&r=0",
       "company": "ITLA",
       "working_hours": "Full time"
-    },
-    {
-      "id": 3,
-      "position": "Sr Developer",
-      "technologies": [
-        "React",
-        "Vue",
-        "JavaScript",
-        "C#",
-        "SQL Server"
-      ],
-      "modality": [
-        "virtual"
-      ],
-      "salary": "RD$ 10000",
-      "location": "RD",
-      "description": "ok",
-      "image": "https://www.solvex.com.do/media/rgzollzh/logo.png",
-      "company": "SOLVEX",
-      "working_hours": "Part time "
-    },
-    {
-      "position": "Web developer",
-      "technologies": [
-        "React, JavaScript"
-      ],
-      "modality": [
-        "Virtual"
-      ],
-      "salary": "$15000",
-      "location": "RD",
-      "description": "Desarollador con experiencia de 1 año",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/2048px-Claro.svg.png",
-      "company": "CLARO",
-      "working_hours": "Full time",
-      "id": 11
     }
   ],
   "login": [
@@ -98,6 +62,27 @@
       "Password": "1020",
       "id": 1,
       "Rol": "pro"
+    },
+    {
+      "UserName": "nan",
+      "Email": "nan23@gmail.com",
+      "Password": "123456",
+      "Gender": "men",
+      "id": 2
+    },
+    {
+      "UserName": "laprofesora",
+      "Email": "lapro@gmail.com",
+      "Password": "123456",
+      "Gender": "woman",
+      "id": 3
+    },
+    {
+      "UserName": "eica",
+      "Email": "ica@gmail.com",
+      "Password": "123456",
+      "Gender": "woman",
+      "id": 4
     }
   ]
 }

@@ -2,6 +2,7 @@ import { useEffect, useState } from "react";
 import CardListJobs from "../components/Card_ListJobs";
 import apiJson from "../hooks/apiJson";
 
+
 import "../css/ListJobs.css";
 const ListJobs = () => {
   const [jobs, setJobs] = useState([]);
@@ -20,6 +21,8 @@ const ListJobs = () => {
       };
       GetJobs();
     }, []);
+
+   
     
     useEffect(() => {
       const GetJobs = async () => {
